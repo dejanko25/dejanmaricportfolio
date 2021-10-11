@@ -1,1 +1,3 @@
-# 2D hra v Unity Engine, ktoru sme vyhotovili ako projekt
+# **2D hra vytvorená v jazyku C# - Unity Engine**
+
+Videoukážka hry: https://youtu.be/9R6YeokhYg8
