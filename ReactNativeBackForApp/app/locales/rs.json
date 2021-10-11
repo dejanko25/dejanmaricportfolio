@@ -1,0 +1,38 @@
+{
+    "translation": {
+        "Welcome": "Zdravo!",
+        "Quit": "Isključi",
+        "Find 5 nearest stations": "Pronađi 5 najbližich stanica",
+        "m away": "m od vas",
+        "Diesel & Petrol": "Dizel i benzin",
+        "Charging stations": "Električni punjači",
+        "Station must have WC & shop": "Stanica mora imati WC i radnju",
+        "View a list": "Pokaži listu",
+        "Check on map": "Pokaži mapu",
+        "Find various places": "Nađi razna mesta",
+        "closest to you": "u tvojoj blizini",
+        "Filling stations": "Punjenje goriva",
+        "Car repair": "Autoservis",
+        "Hospitals": "Bolnice",
+        "Pharmacies": "Apoteke",
+        "Fast food": "Brza hrana",
+        "Finder": "Pretraživač",
+        "Address": "Adresa",
+        "Phone": "Telefon",
+        "WC & shop": "WC i radnja",
+        "You must select at least 1 type of fuel": "Morate izabrati minimalno 1 tip goriva",
+        "This application was designed with the intention to help people quickly find various essential places in their area, such as hospitals or filling stations.":
+        "Ova aplikacija je napravljena da bi pomogla ljudima brzo pronaći razna vrlo bitna mesta u njihovoj blizini, kao na primer bolnice ili benzinske pumpe.",
+        "If you found a bug or want to improve something message me at dejanko25@gmail.com": "Ako oćete prijaviti grešku ili nešto poboljšati napišite mi na dejanko25@gmail.com",
+        "View ratings": "Recenzije",
+        "Delete rating": "Izbriši recenziju",
+        "This filling station has no ratings yet, be the first one to rate": "Ova stanica nema nikakve recenzije, budite prvi recenzent",
+        "Write a review": "Napišite recenziju",
+        "Name": "Ime",
+        "Comment": "Komentar",
+        "Submit": "Pošalji",
+        "You have already rated this station": "Ovu stanicu ste već jednom recenzirali",
+        "Your review was saved successfully.": "Vaša recenzija je bila uspešno prihvaćena",
+        "Your review was deleted successfully.": "Vaša recenzija je bila uspešno izbrisana"
+    }
+}

@@ -1,0 +1,1 @@
+# Zopar projektov na ktorych som sa podielal

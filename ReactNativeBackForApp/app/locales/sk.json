@@ -1,0 +1,38 @@
+{
+    "translation": {
+        "Welcome": "Vitajte!",
+        "Quit": "Ukončiť",
+        "Find 5 nearest stations": "Nájsť 5 najbližších staníc",
+        "m away": "m od Vás",
+        "Diesel & Petrol": "Diesel a benzín",
+        "Charging stations": "Nabíjacie stanice",
+        "Station must have WC & shop": "Na stanici musí byť WC a obchod",
+        "View a list": "Zobraziť zoznam",
+        "Check on map": "Zobrazit na mape",
+        "Find various places": "Nájdi rôzne miesta",
+        "closest to you": "v tvojej blízkosti",
+        "Filling stations": "Čerpacie stanice",
+        "Car repair": "Autoservis",
+        "Hospitals": "Nemocnice",
+        "Pharmacies": "Lekárne",
+        "Fast food": "Rýchle občerstvenie",
+        "Finder": "Vyhľadávač",
+        "Address": "Adresa",
+        "Phone": "Telefón",
+        "WC & shop": "WC a obchod",
+        "You must select at least 1 type of fuel": "Musíte zvoliť aspoň 1 typ čerpacej stanice",
+        "This application was designed with the intention to help people quickly find various essential places in their area, such as hospitals or filling stations.": 
+        "Táto aplikácia bola vyvinutá s cieľom pomôcť ľuďom na cestách rýchlo nájsť rôzne veľmi dôležité miesta v ich okolí, ako napríklad nemocnice alebo čerpacie stanice.",
+        "If you found a bug or want to improve something message me at dejanko25@gmail.com": "Ak chcete nahlásiť chybu alebo niečo vylepšit napíšte mi na dejanko25@gmail.com",
+        "View ratings": "Recenzie",
+        "Delete rating": "Zmazať recenziu",
+        "This filling station has no ratings yet, be the first one to rate": "Táto čerpacia stanica zatiaľ nemá žiadne recenzie, buďte prvý hodnotiaci",
+        "Write a review": "Napíšte recenziu",
+        "Name": "Meno",
+        "Comment": "Komentár",
+        "Submit": "Odoslať",
+        "You have already rated this station": "Túto stanicu ste už hodnotili",
+        "Your review was saved successfully.": "Vaša recenzia bola úspešne odoslaná.",
+        "Your review was deleted successfully.": "Vaša recenzia bola úspešne odstránená."
+    }
+}
