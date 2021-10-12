@@ -5,3 +5,5 @@
 ### Údaje o čerpacích staniciach sú ukladané a čítané z databázy uloženej na internete vďaka službe **Back4App**(https://www.back4app.com/).
 
 Na testovanie aplikácie bola využívaná platforma **Expo**(https://expo.dev/). Aplikácia je vhodná pre operačné systémy **Android** a s menšou úpravou aj pre **iOS**.
+
+Videoukážka aplikácie: https://youtu.be/BhptYu3zCk8
